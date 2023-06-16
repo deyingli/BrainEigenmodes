@@ -3,6 +3,6 @@ data/template_eigenmodes/*.npy
 log/*
 figures/*
 data/spin_test/*
-data/example/EMOTION_FACES_s2/*
-data/example/myelin/*
+data/examples/EMOTION_FACES_s2/*.gii
+data/examples/myelin/*.gii
 
