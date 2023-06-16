@@ -42,7 +42,7 @@
 surface_interest='fsLR_32k'
 structure='midthickness'
 hemispheres='lh rh'
-num_modes=200
+num_modes=2000
 save_cut=0
 
 for hemisphere in ${hemispheres}; do
